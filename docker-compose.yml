@@ -1,0 +1,7 @@
+services:
+	ubuntu:
+		image: ubuntu:20.04
+	alpine:
+		image: alpine:3.18
+	nginx:
+		image: nginx:latest
