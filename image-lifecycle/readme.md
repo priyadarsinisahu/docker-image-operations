@@ -1,4 +1,5 @@
 # Docker-Image-Lifecycle
+
 The Docker image lifecycle can be understood as:
 
 Application Code
